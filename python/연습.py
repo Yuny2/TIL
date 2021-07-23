@@ -1,0 +1,3 @@
+A = apple
+
+print(A)
